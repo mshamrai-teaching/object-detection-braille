@@ -40,7 +40,7 @@ Your objective is to:
 
 ### Submission
 
-To submit your solution create pull request to the `main` branch.
+To submit your solution commit your files to the `main` branch. 
 
 Ensure your final submission includes:
 * Source code (braille_detection.py or similar).
